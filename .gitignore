@@ -1,0 +1,13 @@
+node_modules
+logs
+Mirai/plugins
+Mirai/libs
+Mirai/bots
+Mirai/data
+Mirai/modules
+Mirai/logs
+Mirai/plugin*
+Mirai/mcl*
+Mirai/LICENSE
+dist
+src/data
